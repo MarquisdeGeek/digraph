@@ -1,0 +1,14 @@
+{
+  "name": "jsdigraph",
+  "version": "1.0.0",
+  "description": "Pure JS lib to generate dot files for programmatically generated directed graphis",
+  "keywords": [
+    "digraph,directed,dot,javascript"
+  ],
+  "main": "digraph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Goodwin",
+  "license": "ISC"
+}
