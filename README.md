@@ -1,8 +1,8 @@
 # digraph
-Pure JS lib to generate dot files for programmatically generated directed graphi
+Pure JS lib to generate dot files for programmatically-generated directed graphs.
 
 ## About
-Digraphs are short for directed graphics methods of representing data in terms of nodes (or vertices) and how they're connected, via edges.
+Digraphs are short for directed graphs - methods for representing data in terms of nodes (or vertices) and how they're connected, via edges.
 
 ## Language
 
