@@ -36,4 +36,7 @@ digraph G {
 }
 ```
 
+You can add attributes to both nodes and edges with the addAttribute method. The name/value
+pairs can be found at https://www.graphviz.org/doc/info/attrs.html
+
 See https://marquisdegeek.com/code_digraphs for the graphical output, and some surprise uses!
